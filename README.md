@@ -35,7 +35,7 @@ Databases
 
 IDE's
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" alt="Pycharm logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VS Code logo" width="50" height="50" />
 
 
 Version Control & Package Managers
@@ -44,7 +44,7 @@ Version Control & Package Managers
 
 Styling
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" /> <img src="https://iconape.com/wp-content/png_logo_vector/vuetify.png" alt="Vuetify" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI logo" width="100" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="Material UI logo" width="100" height="50" />
 
 
 Testing-TDD-Sandbox
