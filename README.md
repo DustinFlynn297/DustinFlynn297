@@ -55,4 +55,4 @@ Testing-TDD-Sandbox
 3rd Party API Integrations
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original-wordmark.svg" alt="Google Maps" width="50" height="50" /> <img src="https://www.freeiconspng.com/thumbs/youtube-logo-png/youtube-icon-app-logo-png-9.png" alt="Youtube" width="50" height="50" /> 
-<img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" /> <img src="https://seeklogo.com/vector-logo/290635/stripe" alt="Stripe Logo" width="50" height="50" />
+<img src="https://www.paypalobjects.com/webstatic/mktg/logo-center/PP_Acceptance_Marks_for_LogoCenter_150x94.png" alt="PayPal" width="75" height="50" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" alt="Stripe Logo" width="50" height="50" />
