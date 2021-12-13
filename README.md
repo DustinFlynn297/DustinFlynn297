@@ -12,7 +12,7 @@ Toolbox
 
 Design  
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/tree/master/icons/figma" alt="Figma Logo" width ="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="XD logo" width="50" height="50" /> <img src="https://dashboard.snapcraft.io/site_media/appmedia/2019/08/android-chrome-512x512.png" alt="Draw IO logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width ="50" height="50" />
 
 
 Languages and FrontEnd
