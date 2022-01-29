@@ -17,12 +17,20 @@ Design
 
 Languages and FrontEnd
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=" JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="50" height="50" /> <img src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png" alt="C# logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=" HTML5 logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt=" JavaScript logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript logo" width="50" height="50" /> 
+<img src="https://cis.msjc.edu/Tutorials/Programming/Languages/Csharp/images/Csharp_logo.png" alt="C# logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt=" HTML5 logo" width="50" height="50" />
 
 
 BackEnd
 
 <img src="https://www.natmarchand.fr/wp-content/uploads/2018/05/asp.net_.jpg" alt="ASP.net logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="Express Logo" width="50" height="50" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="Spring logo" width="50" height="50" />
 
 CI/CD
 
@@ -31,6 +39,8 @@ CI/CD
 Databases
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="Postgresql logo" width="50" height="50" /> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongoDB logo" width="50" height="50" /> 
 
 
 IDE's
